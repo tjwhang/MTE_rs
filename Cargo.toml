@@ -1,0 +1,12 @@
+[package]
+name = "extractor_rs"
+version = "0.1.5"
+edition = "2024"
+
+[dependencies]
+image = "*"
+reqwest = { version = "*", features = ["blocking"] }
+#printpdf = { version = "*", features = ["png"] }
+rayon = "*"
+# tokio = { version = "*", features = ["macros", "rt-multi-thread"] }
+pdfium-render = "*"
