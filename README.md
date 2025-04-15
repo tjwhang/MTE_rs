@@ -6,7 +6,7 @@ MotherTongue Extractor RuSt. Not 뭉탱이.
 
 ## 사용 방법
 1. `console.js`를 통해 페이지 이미지 링크 enumerate
-2. Python: `run.bat` 실행, Rust: `run.exe` 실행 (단, 파이썬의 경우 파이썬이 당연히 설치되어 있어야 하며, 러스트의 경우 pdfium.dll이 PATH 또는 실행 디렉터리에 필요)
+2. Python: `run.bat` 실행, Rust: `run.exe` 실행 (단, 파이썬의 경우 파이썬이 당연히 설치되어 있어야 하며, 러스트의 경우 `pdfium.dll`이 `PATH` 또는 실행 디렉터리에 필요)
 3. txt 파일 입력
 
 ## 기능
